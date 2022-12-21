@@ -42,4 +42,4 @@ In the code there are two kinds of objects:
 
 At first, unitary gates were implemented defining the strategies of each player. The bank is a classical figure which grabs the bets of the players and distributes the gamblings in every round. The dice also acts as a classical figure in order to determine the strategy and the win criteria.
 
-We simulate the evolution of a game in the particular case of a entangled Bell states, exhibiting new game results which are not presented in the classical version
+We simulate the evolution of a game in the particular case of a entangled Bell states, exhibiting new game results which are not presented in the classical version, the simulations taking in count the quantum algorithm exhibit the same results of the classical guayabita, which means that the quantum modeling inspired by "Quantum games and quantum strategies" written by Jens Eisert was performed pretty wall.
